@@ -1,2 +1,2 @@
-# highlight_code
+# highlight.js 
 ![](code.png)
